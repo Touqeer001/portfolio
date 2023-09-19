@@ -18,7 +18,7 @@ app.use(express.json());
 
 
 //statics file
-app.use(express.static(path.join(__dirname,'./client/build')));
+app.use(express.static(path.join('./client/build')));
 
 //rotes
 app.get('/',(req,res)=>{
@@ -26,7 +26,8 @@ app.get('/',(req,res)=>{
 })
 
 app.get('*',function(req,res){
-    res.sendFile(path.join(__dirname,'./client/build/index.html'))
+    res.sendFile(path.join('./client/build/index.html'))
+    app.use(express.static(path.join(new URL(import.meta.url).pathname, './client/build')));
 })
 
 
