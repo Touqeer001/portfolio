@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2fb5e534.css",
+    "main.js": "/static/js/main.90ff6d2f.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/e-commerce pic.avif": "/static/media/e-commerce pic.09e5800767a6b1dd10f9.avif",
+    "static/media/profilePic.jpeg": "/static/media/profilePic.ca88013fbca27d972d59.jpeg",
+    "static/media/Touqeer.pdf": "/static/media/Touqeer.1bdd55685c0e9194727c.pdf",
+    "static/media/My profile.jpeg": "/static/media/My profile.e36658cc29ecc173c2ea.jpeg",
+    "static/media/Blog pic.jpg": "/static/media/Blog pic.a08504f54dd4ecd69429.jpg",
+    "static/media/contact.avif": "/static/media/contact.31bd294ffe6fca6b258c.avif",
+    "index.html": "/index.html",
+    "main.2fb5e534.css.map": "/static/css/main.2fb5e534.css.map",
+    "main.90ff6d2f.js.map": "/static/js/main.90ff6d2f.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fb5e534.css",
+    "static/js/main.90ff6d2f.js"
+  ]
+}
